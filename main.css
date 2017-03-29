@@ -1,0 +1,23 @@
+body{
+	background: grey;
+	font-family:comic sans ms;
+}
+a{
+	color:#f9ebea;
+}
+p{
+	background:pink;
+	color:black;
+	padding:15px;
+	font-family:arial;}
+.connor{
+	background:purple;
+	color:yellow;
+	padding:5px;
+}
+
+.mnm{
+	color:purple;
+	background:yellow;
+}
+.numberone{color:purple;}
